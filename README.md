@@ -8,6 +8,7 @@
 | Developers | Timothy Rodriguez |
 | Live Website |  |
 | Repo | https://github.com/timorodr/capstone-be |
+| Technologies | Golang |
 
 ## Problem Being Solved and Target Market
 
