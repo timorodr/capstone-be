@@ -8,7 +8,7 @@
 | Developers | Timothy Rodriguez |
 | Live Website |  |
 | Repo | https://github.com/timorodr/capstone-be |
-| Technologies | Golang |
+| Technologies | Golang, MongoDB |
 
 ## Problem Being Solved and Target Market
 
