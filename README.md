@@ -4,7 +4,7 @@
 | Field | Detail |
 |-------|--------|
 | Project Name | MediManage |
-| Description | A medication management application for imporved health, reduced side effects, fewer medication errors, and increased sense of control over health. |
+| Description | A medication management application for improved health, reduced side effects, fewer medication errors, and increased sense of control over health. |
 | Developers | Timothy Rodriguez |
 | Live Website |  |
 | Repo | https://github.com/timorodr/capstone-be |
