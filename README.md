@@ -33,13 +33,11 @@ List of all routes and their functionality in the app
 | /signup | POST | Creates a new user | |
 | /login | GET | Retrieves user information | |
 | /login | POST | Authenticates user | |
-
 | /medications | GET | JSON of all items | |
 | /medications | POST | Create new item return JSON of new item | |
 | /medications/:id | GET | JSON of item with matching id number | |
 | /medications/:id | PUT | update item with matching id, return its JSON |  |
 | /medications/:id | DELETE | delete the item with the matching id | |
-
 | /interactions | POST | Checks for drug interactions with medication names in request body | |
 
 
